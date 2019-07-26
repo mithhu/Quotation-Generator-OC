@@ -1,7 +1,7 @@
 const quotes = [
   {
     begin: "Better three hours too soon",
-    middle: "than ",
+    middle: "than",
     end: "one minute too late.",
     category: "Time"
   },
@@ -37,7 +37,7 @@ const quotes = [
   },
   {
     begin: "Time is what",
-    middle: "we want most,",
+    middle: "we want most",
     end: "but what we use worst.",
     category: "Time"
   },
