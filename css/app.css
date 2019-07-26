@@ -30,7 +30,7 @@ p {
   margin-left: auto;
   margin-right: auto;
   color: white;
-  box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.15);
   background-color: #0c041c;
   border-radius: 10px;
 }
@@ -51,7 +51,7 @@ button {
   cursor: pointer;
   outline: none;
   color: white;
-  box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.15);
   background-color: #0c041c;
   transition: opacity 0.4s ease-out, transform 0.4s ease-out,
     visibility 0.4s ease-out;
@@ -77,9 +77,8 @@ button:hover {
 #quote-type,
 #quote-counter {
   margin-left: 20px;
-  /* box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.75); */
   color: white;
-  box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.15);
   background-color: #0c041c;
   padding: 5px;
   border: none;
