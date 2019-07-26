@@ -93,9 +93,11 @@ button:hover {
 @media only screen and (max-width: 620px) {
   h1 {
     font-size: 40px;
+    color: #0c041c;
   }
   h2 {
     font-size: 22px;
+    color: #0c041c;
   }
   select {
     font-size: 16px;
@@ -105,9 +107,14 @@ button:hover {
     padding: 15px;
     margin-bottom: 10px;
   }
+
+  body {
+    background-color: #fff;
+    background-image: none;
+  }
 }
 
-@media only screen and (max-width: 620px) {
+@media only screen and (max-width: 400px) {
   h1 {
     font-size: 30px;
   }
