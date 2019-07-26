@@ -11,7 +11,7 @@ body {
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
-  background-image: url(http://stevenwilsonhq.com/sw/wp-content/uploads/2017/03/background10.jpg);
+  background-image: url(/img/sw.jpg);
 }
 h1 {
   margin-top: 30px;

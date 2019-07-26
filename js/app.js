@@ -61,9 +61,9 @@ const showQuotes = () => {
       let randBegin = getRandomIndex(quoteStart, quoteEnd);
       let randMiddle = getRandomIndex(quoteStart, quoteEnd);
       let randEnd = getRandomIndex(quoteStart, quoteEnd);
-      let quote = `"${quotes[randBegin].begin} ${quotes[randMiddle].middle} ${
+      let quote = `${quotes[randBegin].begin} ${quotes[randMiddle].middle} ${
         quotes[randEnd].end
-      }"`;
+      }`;
       arr.push(quote);
       para.innerHTML = quote;
       quoteBox.append(para);
