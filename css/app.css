@@ -23,8 +23,7 @@ h1 {
 
 p {
   padding: 20px;
-  margin-bottom: 20px;
-  /* border: 1px solid; */
+  /* margin-bottom: 20px; */
   width: fit-content;
   width: -moz-max-content;
   margin-left: auto;
